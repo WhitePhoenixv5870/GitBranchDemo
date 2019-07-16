@@ -20,4 +20,22 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void branch1(){
+        Log.d("MainActivity","分支1");
+    }
+
+
+    public void branch2(){
+        Log.d("MainActivity","分支2");
+    }
+
+    public void branch3(){
+        Log.d("MainActivity","分支3");
+    }
+
+    public void branch4(){
+        Log.d("MainActivity","分支4");
+    }
+
+
 }
