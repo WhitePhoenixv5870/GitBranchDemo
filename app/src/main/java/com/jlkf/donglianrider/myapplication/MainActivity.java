@@ -29,4 +29,8 @@ public class MainActivity extends AppCompatActivity {
         Log.d("MainActivity","分支2");
     }
 
+    public void branch3(){
+        Log.d("MainActivity","分支3");
+    }
+
 }
