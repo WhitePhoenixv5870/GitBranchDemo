@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     public void main() {
         Log.d("MainActivity", "主代码");
         Log.d("MainActivity", "主代码第一次修改");
+        Log.d("MainActivity", "主代码第二次修改");
 
 
 
