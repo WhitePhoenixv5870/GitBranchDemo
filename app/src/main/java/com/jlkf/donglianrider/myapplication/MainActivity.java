@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("MainActivity", "主代码");
         Log.d("MainActivity", "主代码第一次修改");
         Log.d("MainActivity", "主代码第二次修改");
-        Log.d("MainActivity", "主代码第三次修改");
+        Log.d("MainActivity", "主代码提交分支");
 
 
 
