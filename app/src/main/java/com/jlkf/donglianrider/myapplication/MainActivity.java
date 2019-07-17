@@ -38,5 +38,8 @@ public class MainActivity extends AppCompatActivity {
         Log.d("MainActivity","分支4");
     }
 
+    public void branch5(){
+        Log.d("MainActivity","分支5");
+    }
 
 }
